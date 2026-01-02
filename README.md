@@ -3,7 +3,6 @@
 
 
  2.Project Overview:-
- 
      This project analyzes the annual sales performance of Aditi Store for the year 2022 using an interactive Excel dashboard.  
      The dashboard provides insights into sales trends, customer demographics, order status, and channel performance to support business decision-making.
 
